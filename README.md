@@ -16,8 +16,8 @@ Project: DOM Game Project
 
 ## File Dictionary
 
-• game.html
+• <b>game.html</b>
 
-• game.css
+• <b>game.css</b>
 
-• game.js
+• <b>game.js</b>
